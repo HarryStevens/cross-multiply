@@ -1,0 +1,31 @@
+{
+  "name": "cross-multiply",
+  "version": "0.0.1",
+  "description": "Cross multiply function",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryStevens/cross-multiply.git"
+  },
+  "keywords": [
+    "cross-product",
+    "cross-multiplication",
+    "ratios",
+    "proportions",
+    "javascript",
+    "math"
+  ],
+  "author": "Harry Stevens <harryjosephstevens@gmail.com> (http://harryjstevens.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarryStevens/cross-multiply/issues"
+  },
+  "homepage": "https://github.com/HarryStevens/cross-multiply#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
